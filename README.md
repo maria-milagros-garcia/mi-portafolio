@@ -6,7 +6,7 @@ Este es un proyecto creado con JS, HTML y CSS en BOOTSTRAP
 Maria Milagros Garcia
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBOAGES)
+[ENLACEGITHUBPAGES](ENLACEGITHUBOAGES)
 
      
 
