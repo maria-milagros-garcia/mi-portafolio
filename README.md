@@ -6,7 +6,7 @@ Este es un proyecto creado con JS, HTML y CSS en BOOTSTRAP
 **Maria Milagros Garcia**
 
 ## Ver ejemplo en vivo
-[https://maria-milagros-garcia.github.io/mi-portafolio/](https://maria-milagros-garcia.github.io/mi-portafolio/)
+[https://maria-milagros-garcia.github.io/mi-portafolio/](https://maria-milagros-garcia.github.io/mi-portafolio/homepage_1.html)
 
      
 
